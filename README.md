@@ -1,0 +1,2 @@
+# bintrayScript
+Production bintray script
